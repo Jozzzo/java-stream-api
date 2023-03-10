@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="11940916-a087-4591-95c8-68eeedcee833" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/letscode/javalearn/domain/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/devfuel/streamapi/domain/Department.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/letscode/javalearn/domain/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/devfuel/streamapi/domain/Event.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/letscode/javalearn/domain/Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/devfuel/streamapi/domain/Position.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/letscode/javalearn/domain/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/devfuel/streamapi/domain/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/letscode/javalearn/Streams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/devfuel/streamapi/Streams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/letscode/javalearn/domain/Department.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/devfuel/streamapi/domain/Department.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/letscode/javalearn/domain/Event.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/devfuel/streamapi/domain/Event.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/letscode/javalearn/domain/Position.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/devfuel/streamapi/domain/Position.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/letscode/javalearn/domain/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/devfuel/streamapi/domain/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/letscode/javalearn/Streams.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/devfuel/streamapi/Streams.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/letscode/javalearn/StreamsTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MpDZdEqrTWdRunNjfXTKyIockq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.43793103"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.Streams.real">
+    <configuration name="Streams.creation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-stream-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="devfuel.streamapi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="letscode.javalearn" />
+      <option name="MAIN_CLASS_NAME" value="devfuel.streamapi.Streams" />
+      <option name="METHOD_NAME" value="creation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Streams.real" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-stream-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="devfuel.streamapi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="letscode.javalearn" />
+      <option name="MAIN_CLASS_NAME" value="devfuel.streamapi.Streams" />
+      <option name="METHOD_NAME" value="real" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Streams.terminate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-stream-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="devfuel.streamapi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="letscode.javalearn" />
+      <option name="MAIN_CLASS_NAME" value="devfuel.streamapi.Streams" />
+      <option name="METHOD_NAME" value="terminate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Streams.transform" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-stream-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="devfuel.streamapi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="letscode.javalearn" />
+      <option name="MAIN_CLASS_NAME" value="devfuel.streamapi.Streams" />
+      <option name="METHOD_NAME" value="transform" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Streams.real" />
+        <item itemvalue="JUnit.Streams.transform" />
+        <item itemvalue="JUnit.Streams.terminate" />
+        <item itemvalue="JUnit.Streams.creation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11940916-a087-4591-95c8-68eeedcee833" name="Changes" comment="" />
+      <created>1678455686244</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678455686244</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
